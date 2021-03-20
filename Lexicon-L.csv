@@ -1,0 +1,357 @@
+Information Type,frequency,Part of Speech
+ip address,41,NN NN
+browser type,21,NN NN
+ip addresses,21,JJ NNS
+internet protocol,16,NNP NNP
+location information,16,NN NN
+device identifiers,14,NN NNS
+device type,13,NN NN
+information,12,NN
+device information,11,NN NN
+location,11,NN
+mac address,10,JJ NN
+operating system,10,NN NN
+computer information,8,NN NN
+device identifier,6,NN NN
+domain names,6,JJ NNS
+mobile device information,6,JJ NN NN
+technical data,6,JJ NNS
+browser information,5,NN NN
+browser language,5,NN NN
+contacts,5,NNS
+cookies,5,NNS
+country,5,NN
+internet protocol address,5,VB NN NN
+log files,5,NN NNS
+mobile device,5,JJ NN
+operating system type,5,VBG NN NN
+phone number,5,NN NN
+platform,5,NN
+referring pages,5,VBG NNS
+software,5,NN
+telephone number,5,NN NN
+device,4,NN
+device-related information,4,JJ NN
+did,4,NN
+geo-location,4,NN
+hardware,4,NN
+hardware information,4,NN NN
+language,4,NN
+log data,4,VB NNS
+technical information,4,VBG NN
+usage information,4,NNP NNP
+data,3,NNS
+device name,3,NN NN
+exit pages,3,VB NNS
+location data,3,NN NNS
+mobile device id,3,JJ NN NN
+mobile device identifiers,3,JJ NN NNS
+page view time,3,NN VBP NN
+pages viewed,3,NNS VBD
+platform type,3,NNP NN
+time zone,3,NN NN
+access times,2,NN NNS
+ads clicked,2,NNS VBD
+advertiser id,2,NNP NNP
+android id,2,JJ NN
+anonymized information,2,JJ NN
+anonymous user usage data,2,JJ NN NN NNS
+application software,2,NN NN
+applications,2,NNS
+approximate geographic location,2,JJ JJ NN
+approximate location,2,JJ NN
+area code,2,NN NN
+cell towers,2,NN NNS
+click count,2,VB NN
+clicks,2,NNS
+cm browser input,2,VB NN NN
+computer performance,2,NN NN
+crash events,2,NN NNS
+crash reports,2,NN NNS
+date,2,NN
+datestamp,2,NN
+device id,2,NN NN
+device log information,2,NN VBP NN
+device model,2,NN NN
+device unique identifier,2,NN JJ NN
+dump reports,2,NN NNS
+ethernet mac address,2,VB NN NN
+geo-location information,2,JJ NN
+geographic area,2,JJ NN
+geographic location information,2,JJ NN NN
+hardware log information,2,NN VBP NN
+hardware model,2,NN NN
+identifying information,2,VBG NN
+idfa,2,NN
+incident data,2,NN NNS
+installation date,2,NN NN
+installation time,2,NN NN
+internet service provider,2,NN NN NN
+landing pages,2,NN NNS
+language modeling data,2,NN NN NNS
+language modeling statistics,2,NN NN NNS
+learned language data,2,VBD NN NNS
+log information,2,VB NN
+media access control,2,NNS NN NN
+mobile country code,2,JJ NN NN
+mobile device ids,2,JJ NN NNS
+mobile device mac addresses,2,JJ NN NN NNS
+mobile device technical information,2,JJ NN JJ NN
+mobile device type,2,JJ NN NN
+mobile device's unique identifier,2,JJ NN POS JJ NN
+name,2,NN
+network media access control,2,NN NNP NNP NNP
+network performance,2,NN NN
+operating system version,2,VBG NN NN
+operation system version,2,NN NN NN
+page view order,2,NN VBP NN
+personal information,2,JJ NN
+physical location,2,JJ NN
+request time,2,NN NN
+software information,2,NN NN
+statistics,2,NNS
+technological information,2,JJ NN
+time,2,NN
+timestamp,2,NN
+transactional information enabling digital rights management,2,JJ NN NNP JJ NNS NN
+udid,2,JJ
+unique browser,2,JJ NN
+unique device id,2,JJ NN NN
+unique device identifier,2,JJ NN NN
+unique device identifiers,2,JJ NN NNS
+unique identifiers,2,JJ NNS
+unique user device number,2,JJ NN NN NN
+urls,2,NNS
+usage,2,NN
+usages statistics,2,JJ NNS
+version,2,NN
+wi-fi access points,2,JJ NN NNS
+access devices,1,NN NNS
+achievements,1,NNS
+actual location,1,JJ NN
+address book,1,VB NN
+ads viewed,1,NNS VBD
+advertisements clicked,1,NNS VBD
+advertisements shown,1,NNS VBN
+advertising id,1,VBG NNP
+advertising identifier,1,NN NN
+aggregated data,1,JJ NNS
+aggregated user data,1,JJ NN NNS
+analytics information,1,JJ NN
+anonymous demographic information,1,JJ JJ NN
+anonymous location data,1,JJ NN NNS
+apple game center id,1,NNP NN NNP NNP
+application usage information,1,NN NN NN
+application version number,1,NN NN NN
+bandwidth,1,NN
+battery level,1,NN NN
+bluetooth settings,1,JJ NNS
+bluetooth signal strength,1,VB NN NN
+brower language,1,NNP NN
+browser,1,NN
+browser types,1,NN NNS
+calendar entries,1,NN NNS
+call date,1,VB NN
+call duration,1,VB NN
+call time,1,VB NN
+call types,1,VB NNS
+calling-party number,1,JJ NN
+carrier network,1,NN NN
+chat histories,1,NN NNS
+chat text,1,NN NN
+city,1,NN
+coarse location,1,JJ NN
+collected non-personal data,1,JJ JJ NNS
+computer,1,NN
+computer system information,1,NN NN NN
+computer's operating system,1,NN POS NN NN
+contact entries,1,NN NNS
+contact list,1,NN NN
+contacts folder,1,NNS NN
+content accessed,1,NN CD
+content interactions,1,NN NNS
+content viewed,1,VB VBN
+crashes,1,NNS
+demographic information,1,JJ NN
+demographic patterns,1,JJ NNS
+device brand,1,NN NN
+device capability,1,NN NN
+device characteristics,1,NN NNS
+device connection information,1,NN NN NN
+device data,1,NN NNS
+device event information,1,NN NN NN
+device id's,1,NN NN VBZ
+device ids,1,NN NN
+device language,1,NN NN
+device make,1,NN VBP
+device model number,1,NN NN NN
+device notifications,1,NN NNS
+device numbers,1,NN NNS
+device operating system,1,NN VBG NN
+device sensor data,1,NN NN NNS
+device's hardware,1,NN POS NN
+device's internet protocol,1,NN POS NNP NNP
+device's mac address,1,NN POS JJ NN
+device's software,1,NN POS NN
+device's udid,1,NN POS NN
+device-related data,1,JJ NNS
+device-specific information,1,JJ NN
+devices,1,NNS
+domain name,1,NN NN
+domain servers,1,NN NNS
+domain types,1,NN NNS
+electronic identification data,1,JJ NN NNS
+feature usage information,1,VB NN NN
+file requested,1,NN NNS
+files,1,NNS
+forwarding numbers,1,NN NNS
+friend's contact information,1,NN POS NN NN
+friends information,1,NNS NN
+functions,1,NNS
+game activity date,1,NN NN NN
+game activity time,1,NN NN NN
+game progress,1,NN NN
+game state,1,NN NN
+game system,1,NN NN
+general demographic information,1,JJ JJ NN
+general geographic location,1,JJ JJ NN
+geographic information,1,JJ NN
+geographic location,1,JJ NN
+geolocation,1,NN
+geolocation data,1,NN NNS
+global positioning system,1,NNP NNP NNP
+gps,1,NNP
+gps information,1,NN NN
+gps signals,1,NNP NNS
+hardware device id,1,NN NN NN
+hardware settings,1,NN NNS
+hardware type,1,NN NN
+high-level geographic information,1,JJ JJ NN
+imei,1,NNP
+installed applications,1,JJ NNS
+installed software,1,JJ NN
+international mobile equipment identity,1,JJ JJ NN NN
+internet browsing behavior,1,NN VBG NN
+internet protocol addresses,1,NN NN NNS
+internet protocol-based location,1,VB JJ NN
+ios advertising identifier,1,NNP NN NN
+ip-address,1,NNS
+iphone's unique identifier,1,NNP POS JJ NN
+isp,1,NN
+latitude,1,NN
+location tags,1,NN NNS
+locations,1,NNS
+log file information,1,VB NN NN
+longitude,1,NN
+mac,1,NNP
+machine,1,NN
+make,1,VB
+manufacturer's name,1,NN POS NN
+media,1,NNS
+media information,1,NN NN
+mobile application usage information,1,NNP NNP NNP NNP
+mobile application version,1,NNP NNP NN
+mobile device ip address,1,JJ NN NN NNS
+mobile device language setting,1,JJ NN NN NNS
+mobile device model,1,JJ NN NN
+mobile device unique identification id,1,JJ NN JJ NN NN
+mobile device's advertising identifier,1,JJ NN POS NN NN
+mobile devices unique device id,1,JJ NNS JJ NN NN
+mobile hardware device id,1,JJ NN NN NN
+mobile operating system,1,JJ NN NN
+mobile phone model,1,JJ NN NN
+mobile phone number,1,JJ NN NN
+mobile service carrier name,1,JJ NN NN NN
+mobile unique device id,1,JJ JJ NN NNP
+model,1,NN
+nearby device information,1,JJ NN NN
+network measurements,1,NN NNS
+network protocol,1,NN NN
+network type,1,NN NN
+non-personal data,1,JJ NNS
+nymgo software usage information,1,NN NN NN NN
+open device identification number,1,NNP NNP NNP NNP
+open udid,1,VB JJ
+operating system information,1,NN NN NN
+page view statistics,1,JJ NN NNS
+page views,1,NN NNS
+peripheral hardware,1,JJ NN
+peripherals,1,NNS
+persistent device identifiers,1,JJ NN NNS
+phone status,1,NN NN
+photos,1,NNS
+platform types,1,NN NNS
+player interactions,1,NN NNS
+possibly ip address,1,RB NNP NNP
+postal code,1,JJ NN
+posted reviews,1,VBD NNS
+precise geographic data,1,JJ JJ NNS
+preferred language,1,JJ NN
+products,1,NNS
+purpose including ip address,1,NN VBG NNP NN
+queries details,1,JJ NNS
+real-time location-based information,1,JJ JJ NN
+referral url,1,NN NN
+referring url,1,VBG NN
+request date,1,NN NN
+rough geolocation,1,JJ NN
+running apps,1,VBG NNS
+scores,1,NNS
+screen content,1,NN NN
+search queries,1,NN NNS
+searches,1,NNS
+sensors,1,NNS
+serial number,1,JJ NN
+service elements,1,NN NNS
+service usage,1,NN NN
+service usage details,1,VB NN NNS
+service usage frequency,1,VB NN NN
+service usage information,1,VB NN NN
+service usage time,1,VB NN NN
+session data,1,NN NNS
+sms messages,1,NNP NNS
+sms routing information,1,VB VBG NN
+software characteristics,1,NN NNS
+spotify application version,1,NNP NN NN
+ssaid,1,NNP
+state,1,NN
+system activity,1,NN NN
+system software,1,NN NN
+tablet,1,NN
+taps,1,NNS
+technically gathered information,1,NNP VBD NN
+telecommunications carrier information,1,NN NN NN
+telephony log information,1,RB VB NN
+temperature,1,NN
+text messages,1,NN NNS
+third party applications,1,NNP NNP NNP
+unique application number,1,JJ NN NN
+unique application numbers,1,JJ NN NNS
+unique device ids,1,JJ NN NN
+unique hardware identifiers,1,JJ NN NNS
+unique identifier,1,JJ NN
+uri addresses,1,NNP NNS
+url,1,UH
+usage dates,1,NN NNS
+usage statistics,1,NN NNS
+usage times,1,NN NNS
+user content,1,NN NN
+user's internet protocol,1,NN POS NNP NNP
+valid mobile number,1,JJ JJ NN
+voice communications,1,NN NNS
+web browser software information,1,NN NN NN NN
+web browser type,1,NN NN NN
+web pages,1,NN NNS
+web pages visited,1,NN NNS VBD
+web request,1,NN NN
+web sites visited,1,NN NNS VBD
+website activity date,1,NN NN NN
+website activity time,1,NN NN NN
+website traffic,1,NN NN
+websites,1,NNS
+websites visited,1,NNS VBD
+wi-fi access point information,1,NN NN NN NN
+wi-fi connections,1,JJ NNS
+wifi signal strength,1,NNS VBP NN
+youtube videos watched,1,JJ NNS VBD
+zip code,1,VB NN
